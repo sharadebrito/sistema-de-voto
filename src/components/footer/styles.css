@@ -1,0 +1,15 @@
+p {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #663399;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #c8a2c8;
+  text-align: center;
+  top: 100%;
+  left: 0%;
+  width: 100%;
+  position: absolute;
+}

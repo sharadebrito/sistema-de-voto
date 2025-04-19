@@ -1,0 +1,39 @@
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 500px;
+  margin: 100px auto;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+input {
+  padding: 1px;
+  font-size: 17px;
+  border: 1px solid #d8bfd8;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+button {
+  background-color: #d8bfd8;
+  border: none;
+  margin-top: 10px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+button:hover {
+  background-color: #663399;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #663399;
+  font-weight: bold;
+}
