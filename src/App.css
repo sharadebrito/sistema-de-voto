@@ -1,12 +1,29 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
 body {
   background-color: #e6e6fa;
   font-family: Helvetica;
   text-align: center;
-  padding: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
+#root {
+  height: 100%;
+  width: 100%;
+}
 
+.contentAll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
 
