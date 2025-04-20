@@ -14,9 +14,9 @@ function BoxVerifyVote() {
 
     if (idadeNum < 16) {
       setMensagem("Proibido votar.");
-    } else if (idadeNum >= 16 || idadeNum == 18) {
+    } else if (idadeNum >= 16 && idadeNum < 18) {
       setMensagem("Voto Opcional.");
-    } else if (idadeNum > 18 && idadeNum == 60) {
+    } else if (idadeNum >= 18 && idadeNum <= 60) {
       setMensagem("Voto Obrigatório.");
     } else {
       setMensagem("Voto Opcional.");
