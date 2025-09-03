@@ -1,12 +1,20 @@
-# React + Vite
+# Validador de Idade para Votação 🗳️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um sistema simples que valida a idade do usuário para informar se o voto é obrigatório, opcional ou não permitido. O usuário insere a idade, o sistema verifica automaticamente e retorna a mensagem correspondente. Ideal para praticar lógica de programação e condicionais em JavaScript.  
 
-Currently, two official plugins are available:
+**Tecnologias utilizadas:**  
+- HTML  
+- CSS  
+- JavaScript  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+# Voting Age Validator 🗳️
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A simple system that validates the user's age to inform whether voting is mandatory, optional, or not allowed. The user enters their age, the system automatically checks it, and returns the corresponding message. Perfect for practicing programming logic and conditionals in JavaScript.  
+
+**Technologies used:**  
+- HTML  
+- CSS  
+- JavaScript  
+
